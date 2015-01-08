@@ -1,0 +1,29 @@
+{
+  "name": "climactic",
+  "version": "0.0.1",
+  "description": "Command line interface framework",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Tony Pujals <tony@subfuzion.com> (http://twitter.com/subfuzion)",
+  "contributors": [
+    "Tony Pujals <tpujals@equinix.com> (http://twitter.com/subfuzion)",
+    "Peter Svetlichny <psvetlichny@equinix.com> (http://twitter.com/p_svetlichny)"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "commander": "^2.6.0",
+    "figlet": "^1.1.0",
+    "inquirer": "^0.8.0",
+    "js-yaml": "^3.2.5",
+    "osenv": "^0.1.0",
+    "prompt": "^0.2.14",
+    "shelljs": "^0.3.0",
+    "swig": "^1.4.2",
+    "underscore": "^1.7.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  }
+}

@@ -1,0 +1,21 @@
+---
+# light theme (colors that appear best against light background)
+
+normal: white
+important: yellow
+app: cyan
+terminal: green
+help: cyan
+data: cyan
+promptPrefix: yellow
+prompt: gray
+input: gray
+strong: white
+light: gray
+verbose: cyan
+debug: blue
+info: gray
+warn: yellow
+error: red
+success: green
+
