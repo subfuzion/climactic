@@ -6,4 +6,5 @@ var packageDetails = {
     targetDir: './'
 };
 
-ResourceManager.prototype.loadResource(packageDetails);
+//ResourceManager.prototype.downloadResource(packageDetails);
+ResourceManager.prototype.findResource(packageDetails);
