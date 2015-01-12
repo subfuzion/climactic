@@ -19,12 +19,13 @@
     "fs-extra": "^0.14.0",
     "inquirer": "^0.8.0",
     "js-yaml": "^3.2.5",
+    "lodash": "^2.4.1",
     "osenv": "^0.1.0",
     "prompt": "^0.2.14",
     "shelljs": "^0.3.0",
     "swig": "^1.4.2",
     "tarball-extract": "0.0.3",
-    "underscore": "^1.7.0"
+    "tmp": "0.0.24"
   },
   "devDependencies": {
     "mocha": "^2.1.0"
