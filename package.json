@@ -5,10 +5,10 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "Tony Pujals <tony@subfuzion.com> (http://twitter.com/subfuzion)",
+  "author": "Tony Pujals (http://twitter.com/subfuzion)",
   "contributors": [
-    "Tony Pujals <tpujals@equinix.com> (http://twitter.com/subfuzion)",
-    "Peter Svetlichny <psvetlichny@equinix.com> (http://twitter.com/p_svetlichny)"
+    "Tony Pujals (http://twitter.com/subfuzion)",
+    "Peter Svetlichny (http://twitter.com/p_svetlichny)"
   ],
   "license": "ISC",
   "dependencies": {
