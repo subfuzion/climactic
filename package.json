@@ -1,6 +1,6 @@
 {
   "name": "climactic",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Command line interface framework",
   "scripts": {
     "test": "mocha"
